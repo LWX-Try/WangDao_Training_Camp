@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="0：开营测试题---60道题/0：开营测试题---60道题.vcxproj" Id="14b648de-d9f5-413a-b282-36dd1be87856" />
+  <Project Path="1：C语言/1：C语言.vcxproj" Id="bb952e59-d96f-40c1-a31b-f48dc9243a75" />
+  <Project Path="2：Linux/2：Linux.vcxproj" Id="bc3a9b50-01ec-45e8-94b3-a719e94041c2" />
+  <Project Path="3：C++/3：C++.vcxproj" Id="2d2c692a-c822-4302-ba13-653de12fdf46" />
+</Solution>
